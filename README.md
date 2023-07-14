@@ -1,3 +1,7 @@
+
+https://github.com/SolankiYogesh/react-native-circular-animation/assets/70507671/6005354f-1ecc-474c-a1a9-840fb742b54d
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
